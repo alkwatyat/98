@@ -4,8 +4,6 @@
 A web based Windows 98 desktop remake.
 
 Includes:
-* ![](images/icons/notepad-16x16.png) Notepad ([separate README](programs/notepad/README.md))
-* ![](images/icons/speaker-16x16.png) Sound Recorder ([separate README](programs/sound-recorder/README.md))
 * ![](images/icons/paint-16x16.png) Paint ([separate repository](https://github.com/1j01/jspaint))
 * ![](images/icons/calculator-16x16.png) Calculator ([separate README](programs/calculator/README.md))
 * ![](images/icons/pipes-16x16.png) 3D Pipes ([separate repository](https://github.com/1j01/pipes))
