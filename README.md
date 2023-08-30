@@ -4,7 +4,6 @@
 A web based Windows 98 desktop remake.
 
 Includes:
-* ![](images/icons/paint-16x16.png) Paint ([separate repository](https://github.com/1j01/jspaint))
 * ![](images/icons/calculator-16x16.png) Calculator ([separate README](programs/calculator/README.md))
 * ![](images/icons/pipes-16x16.png) 3D Pipes ([separate repository](https://github.com/1j01/pipes))
 * ![](images/icons/pipes-16x16.png) 3D FlowerBox ([original repository](https://github.com/kevin-shannon/3D-FlowerBox)) by [Kevin Shannon](https://github.com/kevin-shannon)
