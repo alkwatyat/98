@@ -1,8 +1,6 @@
 
 # ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
 
-A web based Windows 98 desktop remake.
-
 Includes:
 * ![](images/icons/calculator-16x16.png) Calculator ([separate README](programs/calculator/README.md))
 * ![](images/icons/pipes-16x16.png) 3D Pipes ([separate repository](https://github.com/1j01/pipes))
